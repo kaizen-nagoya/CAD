@@ -1,5 +1,27 @@
 https://kicad-pcb.org
 
+
+https://kicad-pcb.org/external-tools/
+
+KiCad StepUp
+KiCost
+altium2kicad
+eeshow
+fped
+
+# convertion
+## LTSPICE
+KiCad-SPICE 入門実習テキスト
+https://make.kosakalab.com/education/kicad-spice_basics/
+
+
+https://forum.kicad.info/t/ltspice-to-kicad-schematic-conversion/8328
+https://github.com/laurentc2/LTspice2Kicad
+
+Kicad or LTSpice?
+https://forum.allaboutcircuits.com/threads/kicad-or-ltspice.41260/
+
+# Reference
 トランジスタ技術2016年7月号
 https://www.amazon.co.jp/dp/B01EVM3YV4/
 
