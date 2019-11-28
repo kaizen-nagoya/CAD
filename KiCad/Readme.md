@@ -1,6 +1,10 @@
 https://kicad-pcb.org
 
+トランジスタ技術2016年7月号
+https://www.amazon.co.jp/dp/B01EVM3YV4/
 
+トランジスタ技術スペシャル-2018年-04-月号
+https://www.amazon.co.jp/dp/B07BF23K1V/
 
 ChromebookのCrostiniにKiCADをインストール
 https://qiita.com/iton/items/e7939f8213da1333882d
