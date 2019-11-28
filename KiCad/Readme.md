@@ -1,5 +1,9 @@
+https://kicad-pcb.org
 
 
+
+ChromebookのCrostiniにKiCADをインストール
+https://qiita.com/iton/items/e7939f8213da1333882d
 
 
 KiCadで初めて部品実装基板をおこしてみた
