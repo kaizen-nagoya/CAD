@@ -1,5 +1,8 @@
 
 http://www.di.takuma-ct.ac.jp/~matusita/GuenCAD/top/
+リンク切れ
+
+https://www.vector.co.jp/soft/dl/win95/business/se061428.html
 
 
 
